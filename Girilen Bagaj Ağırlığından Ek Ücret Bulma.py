@@ -1,4 +1,5 @@
-kg=int(input("bagaj ağırlığını girin"))
+#Her KG İçin 10 TL Ücret Alınmakta.
+kg=int(input("Bagaj ağırlığını girin"))
 
 b=kg-20
 c=b*10
